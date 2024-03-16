@@ -1,5 +1,9 @@
 2011_09_26_calib.zip
 2011_09_26_drive_0106_sync.zip
-yolov5/*
-monodepth2/*
-manydepth/*
+yolov5/
+monodepth2/
+manydepth/
+KITTI_MR.zip
+manydepth_model_kitti_mr/
+data/
+calib/
