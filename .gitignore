@@ -8,3 +8,4 @@ manydepth_model_kitti_mr/
 data/
 calib/
 models/
+yolov5s.pt
