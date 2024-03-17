@@ -7,3 +7,4 @@ KITTI_MR.zip
 manydepth_model_kitti_mr/
 data/
 calib/
+models/
